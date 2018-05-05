@@ -32,7 +32,7 @@
 * https://github.com/mpgn/ByP-SOP
 * https://medium.com/@tbmnull/making-an-xss-triggered-by-csp-bypass-on-twitter-561f107be3e5
 * http://blog.portswigger.net/2016/12/bypassing-csp-using-polyglot-jpegs.html
-
+* https://www.google.com.au/amp/s/securitycafe.ro/2017/01/18/practical-jsonp-injection/amp/
 ### Template Injections 
 
 * https://0day.work/bsidessf-ctf-2017-web-writeups/#zumbo1
